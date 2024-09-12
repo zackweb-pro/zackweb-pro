@@ -5,7 +5,7 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%20948B&size=25&center=true&vCenter=true&width=500&lines=Hello+there!+I'm+Zakaria+OUMGHAR;Software+Engineering+Student;Passionate+about+Web+Development" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?color=%2320948B&size=25&center=true&vCenter=true&width=500&lines=Hello+there!+I'm+Zakaria+OUMGHAR;Software+Engineering+Student;Passionate+about+Web+Development" alt="Typing SVG">
 </p>
 
 
@@ -70,16 +70,3 @@ Hi there! I'm **Zakaria OUMGHAR**, a passionate **software engineering student**
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat)](https://www.linkedin.com/in/zakaria-oumghar/)
 [![Twitter](https://img.shields.io/badge/Twitter-blue?logo=twitter&style=flat)](https://twitter.com/zack_web)
 [![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&style=flat)](https://github.com/zackweb-pro)
-
----
-
-### **🛠 Styled Contributions and Projects**
-You can style your GitHub contributions and projects by adding custom badges, icons, or shields. You could also use some libraries like:
-- **[GitHub Contribution Graph](https://github.com/Ashutosh00710/github-readme-activity-graph)**: A dynamic graph to show your contribution history with customizable themes.
-- **[GitHub Project Section](https://github.com/Ileriayo/markdown-badges)**: You can add badges for the technologies used in your project to show them visually in your README.
-
----
-
-### **Example Contribution Graph**
-```markdown
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=zackweb-pro&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)

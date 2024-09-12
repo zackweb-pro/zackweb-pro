@@ -1,75 +1,74 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%23E1372F&size=25&center=true&vCenter=true&width=500&lines=Hello+there!+I'm+Zakaria+OUMGHAR;Software+Engineer;Passionate+about+Web+Development" alt="Typing SVG">
-</p>
+# **Zakaria OUMGHAR's GitHub Profile**
+
+## **🌟 Welcome to My GitHub Profile! 🌟**
+
+Hi there! I'm **Zakaria OUMGHAR**, a passionate **software engineering student** specializing in full-stack web development. I love working with modern technologies and continuously learning new skills. Let's build something awesome together!
+
+### **🔧 Programming Languages**
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?logo=javascript&style=flat)
+![Java](https://img.shields.io/badge/-Java-black?logo=java&style=flat)
+![C++](https://img.shields.io/badge/-C++-black?logo=cplusplus&style=flat)
+![Python](https://img.shields.io/badge/-Python-black?logo=python&style=flat)
+![C](https://img.shields.io/badge/-C-black?logo=c&style=flat)
+![HTML](https://img.shields.io/badge/-HTML-black?logo=html5&style=flat)
+![CSS](https://img.shields.io/badge/-CSS-black?logo=css3&style=flat)
+![SQL](https://img.shields.io/badge/-SQL-black?logo=sql&style=flat)
+
+### **📚 Libraries / Frameworks**
+![Next.js](https://img.shields.io/badge/-Next.js-black?logo=next.js&style=flat)
+![React.js](https://img.shields.io/badge/-React.js-black?logo=react&style=flat)
+![Node.js](https://img.shields.io/badge/-Node.js-black?logo=node.js&style=flat)
+![Express](https://img.shields.io/badge/-Express-black?logo=express&style=flat)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?logo=bootstrap&style=flat)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-black?logo=tailwindcss&style=flat)
+
+### **🛠 Tools / Platforms**
+![VS Code](https://img.shields.io/badge/-VS%20Code-black?logo=visualstudiocode&style=flat)
+![Git](https://img.shields.io/badge/-Git-black?logo=git&style=flat)
+![Docker](https://img.shields.io/badge/-Docker-black?logo=docker&style=flat)
+
+### **💾 Databases**
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?logo=mongodb&style=flat)
+![Firebase](https://img.shields.io/badge/-Firebase-black?logo=firebase&style=flat)
+![MySQL](https://img.shields.io/badge/-MySQL-black?logo=mysql&style=flat)
+
+### **✨ Trophy Showcase (Styled with Neon Effect)**
+<div style="background-color: #1E1E1E; padding: 10px; border-radius: 10px; box-shadow: 0 0 15px neon-green;">
+  <img src="https://github-profile-trophy.vercel.app/?username=zackweb-pro&theme=dracula&margin-w=15&margin-h=15" alt="Trophies" style="width: 100%; height: auto;">
+</div>
+
+### **📊 GitHub Stats (Styled in Dark Mode)**
+<div style="background-color: #1E1E1E; padding: 10px; border-radius: 10px; box-shadow: 0 0 15px neon-green;">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=zackweb-pro&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" style="width: 100%; height: auto;">
+</div>
+
+### **🔥 GitHub Streaks (Styled in Dark Mode)**
+<div style="background-color: #1E1E1E; padding: 10px; border-radius: 10px; box-shadow: 0 0 15px neon-green;">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zackweb-pro&theme=dark" alt="GitHub Streaks" style="width: 100%; height: auto;">
+</div>
+
+### **📈 Top Languages (Styled in Dark Mode)**
+<div style="background-color: #1E1E1E; padding: 10px; border-radius: 10px; box-shadow: 0 0 15px neon-green;">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=zackweb-pro&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages" style="width: 100%; height: auto;">
+</div>
+
+### **👁️ View Count**
+![Profile views](https://komarev.com/ghpvc/?username=zackweb-pro)
+
+### **🌐 Social Media**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat)](https://www.linkedin.com/in/zakaria-oumghar/)
+[![Twitter](https://img.shields.io/badge/Twitter-blue?logo=twitter&style=flat)](https://twitter.com/zack_web)
+[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&style=flat)](https://github.com/zackweb-pro)
 
 ---
 
-### About Me
-I'm **Zakaria OUMGHAR**, a Software Engineer passionate about web development, open source, and collaborating on exciting projects. Currently, I am collaborating on the **GL ENSIAS** project.
+### **🛠 Styled Contributions and Projects**
+You can style your GitHub contributions and projects by adding custom badges, icons, or shields. You could also use some libraries like:
+- **[GitHub Contribution Graph](https://github.com/Ashutosh00710/github-readme-activity-graph)**: A dynamic graph to show your contribution history with customizable themes.
+- **[GitHub Project Section](https://github.com/Ileriayo/markdown-badges)**: You can add badges for the technologies used in your project to show them visually in your README.
 
 ---
 
-### Programming Languages
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)
-![Java](https://img.shields.io/badge/-Java-black?style=for-the-badge&logo=java)
-![C++](https://img.shields.io/badge/-C++-black?style=for-the-badge&logo=c%2B%2B)
-![Python](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=python)
-![C](https://img.shields.io/badge/-C-black?style=for-the-badge&logo=c)
-![HTML](https://img.shields.io/badge/-HTML-black?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/-CSS-black?style=for-the-badge&logo=css3)
-![SQL](https://img.shields.io/badge/-SQL-black?style=for-the-badge&logo=mysql)
-
----
-
-### Libraries / Frameworks
-![Next.js](https://img.shields.io/badge/-Next.js-black?style=for-the-badge&logo=next.js)
-![React.js](https://img.shields.io/badge/-React.js-black?style=for-the-badge&logo=react)
-![Node.js](https://img.shields.io/badge/-Node.js-black?style=for-the-badge&logo=node.js)
-![Express](https://img.shields.io/badge/-Express-black?style=for-the-badge&logo=express)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=for-the-badge&logo=bootstrap)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-black?style=for-the-badge&logo=tailwind-css)
-
----
-
-### Tools / Platforms
-![VS Code](https://img.shields.io/badge/-VS%20Code-black?style=for-the-badge&logo=visual-studio-code)
-![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git)
-![Docker](https://img.shields.io/badge/-Docker-black?style=for-the-badge&logo=docker)
-
----
-
-### Databases
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=for-the-badge&logo=mongodb)
-![Firebase](https://img.shields.io/badge/-Firebase-black?style=for-the-badge&logo=firebase)
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=for-the-badge&logo=mysql)
-
----
-
-### GitHub Stats & Streaks
-
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zackweb-pro&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zackweb-pro&show_icons=true&locale=en" alt="GitHub Stats" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zackweb-pro" alt="GitHub Streak" /></p>
-
----
-
-### Socials
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-black?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/zakaria-oumghar/)
-[![Twitter](https://img.shields.io/badge/-Twitter-black?style=for-the-badge&logo=twitter)](https://twitter.com/zakweb_pro)
-[![GitHub](https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github)](https://github.com/zackweb-pro)
-
----
-
-### View Count
-![](https://komarev.com/ghpvc/?username=zackweb-pro&color=red&style=for-the-badge)
-
----
-
-### Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=zackweb-pro&theme=onestar&no-frame=true&row=1&column=6" alt="GitHub Trophies">
-</p>
-
----
+### **Example Contribution Graph**
+```markdown
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=zackweb-pro&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)

@@ -1,12 +1,12 @@
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%2320948B&size=25&center=true&vCenter=true&width=500&lines=Hello+there!+I'm+Zakaria+OUMGHAR;Software+Engineering+Student;Passionate+about+Web+Development" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?color=%23F95F4F&size=25&center=true&vCenter=true&width=500&lines=Hello+there!+I'm+Zakaria+OUMGHAR;Software+Engineering+Student;Passionate+about+Web+Development" alt="Typing SVG">
 </p>
 
 
 
 ## **🌟 About Me**
-Hi there! I'm **Zakaria OUMGHAR**, a passionate **software engineering student** specializing in full-stack web development. Let's build something awesome together!
+Hi there! I'm **Zakaria OUMGHAR**, a passionate **software engineering student** at **ENSIAS**, I do all full-stack web development related services. Let's build something awesome together!
 
 ### **🔧 Programming Languages**
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?logo=javascript&style=flat)

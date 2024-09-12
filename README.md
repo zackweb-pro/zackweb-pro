@@ -1,11 +1,4 @@
 # **Zakaria OUMGHAR's GitHub Profile**
-
-<div align="center">
-  <h1 style="font-family: 'Courier New', Courier, monospace; font-size: 3rem; color: #00FF00;">
-    <span id="animated-title">Welcome to Zakaria OUMGHAR's Profile!</span>
-  </h1>
-</div>
-
 <style>
   @keyframes flicker {
     0%   { opacity: 1; }
@@ -17,6 +10,14 @@
     font-weight: bold;
   }
 </style>
+
+<div align="center">
+  <h1 style="font-family: 'Courier New', Courier, monospace; font-size: 3rem; color: #00FF00;">
+    <span id="animated-title">Welcome to Zakaria OUMGHAR's Profile!</span>
+  </h1>
+</div>
+
+
 
 ## **🌟 About Me**
 Hi there! I'm **Zakaria OUMGHAR**, a passionate **software engineering student** specializing in full-stack web development. Let's build something awesome together!

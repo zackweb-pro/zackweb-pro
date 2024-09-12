@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Zakaria OUMGHAR</h1>
 <h3 align="center">A passionate Software Engineer from Morocco</h3>
 
+<p align="left"> <a href="[https://www.instagram.com/zoumghar/" target="blank"><img src="https://img.shields.io/twitter/follow/zakaria34293210?logo=twitter&style=for-the-badge" alt="Zakaria OUMGHAR" /></a> </p>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zackweb-pro&label=Profile%20views&color=0e75b6&style=flat" alt="zackweb-pro" /> </p>
 
 
@@ -20,7 +22,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zackweb-pro" alt="zackweb-pro" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/zakaria34293210" target="blank"><img src="https://img.shields.io/twitter/follow/zakaria34293210?logo=twitter&style=for-the-badge" alt="zakaria34293210" /></a> </p>
 
 
 ### Blogs posts

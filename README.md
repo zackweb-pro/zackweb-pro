@@ -1,8 +1,25 @@
 # **Zakaria OUMGHAR's GitHub Profile**
 
-## **🌟 Welcome to My GitHub Profile! 🌟**
+<div align="center">
+  <h1 style="font-family: 'Courier New', Courier, monospace; font-size: 3rem; color: #00FF00;">
+    <span id="animated-title">Welcome to Zakaria OUMGHAR's Profile!</span>
+  </h1>
+</div>
 
-Hi there! I'm **Zakaria OUMGHAR**, a passionate **software engineering student** specializing in full-stack web development. I love working with modern technologies and continuously learning new skills. Let's build something awesome together!
+<style>
+  @keyframes flicker {
+    0%   { opacity: 1; }
+    50%  { opacity: 0.5; }
+    100% { opacity: 1; }
+  }
+  #animated-title {
+    animation: flicker 1.5s infinite;
+    font-weight: bold;
+  }
+</style>
+
+## **🌟 About Me**
+Hi there! I'm **Zakaria OUMGHAR**, a passionate **software engineering student** specializing in full-stack web development. Let's build something awesome together!
 
 ### **🔧 Programming Languages**
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?logo=javascript&style=flat)
@@ -32,23 +49,25 @@ Hi there! I'm **Zakaria OUMGHAR**, a passionate **software engineering student**
 ![Firebase](https://img.shields.io/badge/-Firebase-black?logo=firebase&style=flat)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?logo=mysql&style=flat)
 
+---
+
 ### **✨ Trophy Showcase (Styled with Neon Effect)**
-<div style="background-color: #1E1E1E; padding: 10px; border-radius: 10px; box-shadow: 0 0 15px neon-green;">
+<div style="background-color: #1E1E1E; padding: 10px; border-radius: 10px; box-shadow: 0 0 15px neon-green; max-width: 700px; margin: auto;">
   <img src="https://github-profile-trophy.vercel.app/?username=zackweb-pro&theme=dracula&margin-w=15&margin-h=15" alt="Trophies" style="width: 100%; height: auto;">
 </div>
 
 ### **📊 GitHub Stats (Styled in Dark Mode)**
-<div style="background-color: #1E1E1E; padding: 10px; border-radius: 10px; box-shadow: 0 0 15px neon-green;">
+<div style="background-color: #1E1E1E; padding: 10px; border-radius: 10px; box-shadow: 0 0 15px neon-green; max-width: 700px; margin: auto;">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=zackweb-pro&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" style="width: 100%; height: auto;">
 </div>
 
 ### **🔥 GitHub Streaks (Styled in Dark Mode)**
-<div style="background-color: #1E1E1E; padding: 10px; border-radius: 10px; box-shadow: 0 0 15px neon-green;">
+<div style="background-color: #1E1E1E; padding: 10px; border-radius: 10px; box-shadow: 0 0 15px neon-green; max-width: 700px; margin: auto;">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zackweb-pro&theme=dark" alt="GitHub Streaks" style="width: 100%; height: auto;">
 </div>
 
 ### **📈 Top Languages (Styled in Dark Mode)**
-<div style="background-color: #1E1E1E; padding: 10px; border-radius: 10px; box-shadow: 0 0 15px neon-green;">
+<div style="background-color: #1E1E1E; padding: 10px; border-radius: 10px; box-shadow: 0 0 15px neon-green; max-width: 700px; margin: auto;">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=zackweb-pro&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages" style="width: 100%; height: auto;">
 </div>
 
@@ -72,8 +91,3 @@ You can style your GitHub contributions and projects by adding custom badges, ic
 ### **Example Contribution Graph**
 ```markdown
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=zackweb-pro&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
-```
-### **My Projects**
-
-- [Project 1](https://github.com/zackweb-pro/project1) ![React](https://img.shields.io/badge/-React-black?logo=react&style=flat) ![Node.js](https://img.shields.io/badge/-Node.js-black?logo=node.js&style=flat)
-- [Project 2](https://github.com/zackweb-pro/project2) ![JavaScript](https://img.shields.io/badge/-JavaScript-black?logo=javascript&style=flat) ![MongoDB](https://img.shields.io/badge/-MongoDB-black?logo=mongodb&style=flat)

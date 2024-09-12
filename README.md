@@ -1,15 +1,8 @@
 # **Zakaria OUMGHAR's GitHub Profile**
-<style>
-  @keyframes flicker {
-    0%   { opacity: 1; }
-    50%  { opacity: 0.5; }
-    100% { opacity: 1; }
-  }
-  #animated-title {
-    animation: flicker 1.5s infinite;
-    font-weight: bold;
-  }
-</style>
+<div align="center">
+  <img src="https://media.giphy.com/media/3o6ozhKQIsW7tE2cUQ/giphy.gif" alt="Title Animation" />
+</div>
+
 
 <div align="center">
   <h1 style="font-family: 'Courier New', Courier, monospace; font-size: 3rem; color: #00FF00;">

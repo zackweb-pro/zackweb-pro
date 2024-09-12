@@ -72,3 +72,7 @@ You can style your GitHub contributions and projects by adding custom badges, ic
 ### **Example Contribution Graph**
 ```markdown
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=zackweb-pro&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+### **My Projects**
+
+- [Project 1](https://github.com/zackweb-pro/project1) ![React](https://img.shields.io/badge/-React-black?logo=react&style=flat) ![Node.js](https://img.shields.io/badge/-Node.js-black?logo=node.js&style=flat)
+- [Project 2](https://github.com/zackweb-pro/project2) ![JavaScript](https://img.shields.io/badge/-JavaScript-black?logo=javascript&style=flat) ![MongoDB](https://img.shields.io/badge/-MongoDB-black?logo=mongodb&style=flat)

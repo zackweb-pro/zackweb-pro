@@ -1,7 +1,7 @@
 # **Zakaria OUMGHAR's GitHub Profile**
-<div align="center">
-  <img src="https://media.giphy.com/media/3o6ozhKQIsW7tE2cUQ/giphy.gif" alt="Zakaria OUMGHAR" />
-</div>
+# ![Animated Title](https://media.giphy.com/media/your-gif-url.gif)
+
+
 
 
 <div align="center">

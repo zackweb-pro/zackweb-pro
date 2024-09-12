@@ -1,67 +1,75 @@
-# Hi, I'm Zakaria OUMGHAR 👋
-### Software Engineer | ENSIAS GL
-
-Welcome to my GitHub profile! I'm passionate about building innovative web applications, developing creative solutions, and learning the latest technologies. Below is a showcase of my skills and achievements.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=%23E1372F&size=25&center=true&vCenter=true&width=500&lines=Hello+there!+I'm+Zakaria+OUMGHAR;Software+Engineer;Passionate+about+Web+Development" alt="Typing SVG">
+</p>
 
 ---
 
-## 🛠️ Skills
+### About Me
+I'm **Zakaria OUMGHAR**, a Software Engineer passionate about web development, open source, and collaborating on exciting projects. Currently, I am collaborating on the **GL ENSIAS** project.
+
+---
 
 ### Programming Languages
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="SQL" width="40" height="40"/>
-</p>
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)
+![Java](https://img.shields.io/badge/-Java-black?style=for-the-badge&logo=java)
+![C++](https://img.shields.io/badge/-C++-black?style=for-the-badge&logo=c%2B%2B)
+![Python](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=python)
+![C](https://img.shields.io/badge/-C-black?style=for-the-badge&logo=c)
+![HTML](https://img.shields.io/badge/-HTML-black?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/-CSS-black?style=for-the-badge&logo=css3)
+![SQL](https://img.shields.io/badge/-SQL-black?style=for-the-badge&logo=mysql)
+
+---
 
 ### Libraries / Frameworks
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React.js" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind" width="40" height="40"/>
-</p>
+![Next.js](https://img.shields.io/badge/-Next.js-black?style=for-the-badge&logo=next.js)
+![React.js](https://img.shields.io/badge/-React.js-black?style=for-the-badge&logo=react)
+![Node.js](https://img.shields.io/badge/-Node.js-black?style=for-the-badge&logo=node.js)
+![Express](https://img.shields.io/badge/-Express-black?style=for-the-badge&logo=express)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=for-the-badge&logo=bootstrap)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-black?style=for-the-badge&logo=tailwind-css)
+
+---
 
 ### Tools / Platforms
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
-</p>
+![VS Code](https://img.shields.io/badge/-VS%20Code-black?style=for-the-badge&logo=visual-studio-code)
+![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git)
+![Docker](https://img.shields.io/badge/-Docker-black?style=for-the-badge&logo=docker)
+
+---
 
 ### Databases
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=for-the-badge&logo=mongodb)
+![Firebase](https://img.shields.io/badge/-Firebase-black?style=for-the-badge&logo=firebase)
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=for-the-badge&logo=mysql)
+
+---
+
+### GitHub Stats & Streaks
+
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zackweb-pro&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+</p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zackweb-pro&show_icons=true&locale=en" alt="GitHub Stats" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zackweb-pro" alt="GitHub Streak" /></p>
+
+---
+
+### Socials
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-black?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/zakaria-oumghar/)
+[![Twitter](https://img.shields.io/badge/-Twitter-black?style=for-the-badge&logo=twitter)](https://twitter.com/zakweb_pro)
+[![GitHub](https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github)](https://github.com/zackweb-pro)
+
+---
+
+### View Count
+![](https://komarev.com/ghpvc/?username=zackweb-pro&color=red&style=for-the-badge)
+
+---
+
+### Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=zackweb-pro&theme=onestar&no-frame=true&row=1&column=6" alt="GitHub Trophies">
 </p>
 
 ---
-
-## 🏆 GitHub Trophies
-<p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=ZakariaOUMGHAR&theme=dracula&no-frame=true&column=4&margin-w=15" alt="GitHub Trophies"/>
-</p>
-
----
-
-## 🚀 Current Projects
-- 🔭 I’m currently working on a website for ENSIAS GL software engineering students, showcasing our major and projects.
-- 🌱 Exploring advanced web technologies like Next.js, Tailwind, and Framer Motion.
-- 🤝 Open to collaboration on software engineering projects and building open-source tools.
-
----
-
-### Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/zakaria-oumg/)
-
----
-
-### [Check Out My Portfolio Website](https://your-website-link)

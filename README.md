@@ -1,8 +1,3 @@
-# **Zakaria OUMGHAR's GitHub Profile**
-# ![Animated Title](https://media.giphy.com/media/your-gif-url.gif)
-
-
-
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=%2320948B&size=25&center=true&vCenter=true&width=500&lines=Hello+there!+I'm+Zakaria+OUMGHAR;Software+Engineering+Student;Passionate+about+Web+Development" alt="Typing SVG">
@@ -43,23 +38,23 @@ Hi there! I'm **Zakaria OUMGHAR**, a passionate **software engineering student**
 
 ---
 
-### **✨ Trophy Showcase (Styled with Neon Effect)**
+### **✨ Trophy Showcase **
 <div style="background-color: #1E1E1E; padding: 10px; border-radius: 10px; box-shadow: 0 0 15px neon-green; max-width: 700px; margin: auto;">
   <img src="https://github-profile-trophy.vercel.app/?username=zackweb-pro&theme=dracula&margin-w=15&margin-h=15" alt="Trophies" style="width: 100%; height: auto;">
 </div>
 
-### **📊 GitHub Stats (Styled in Dark Mode)**
-<div style="background-color: #1E1E1E; padding: 10px; border-radius: 10px; box-shadow: 0 0 15px neon-green; max-width: 700px; margin: auto;">
+### **📊 GitHub Stats **
+<div style="background-color: #1E1E1E; padding: 10px; border-radius: 10px; box-shadow: 0 0 15px neon-green; max-width: 300px; margin: auto;">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=zackweb-pro&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" style="width: 100%; height: auto;">
 </div>
 
-### **🔥 GitHub Streaks (Styled in Dark Mode)**
-<div style="background-color: #1E1E1E; padding: 10px; border-radius: 10px; box-shadow: 0 0 15px neon-green; max-width: 700px; margin: auto;">
+### **🔥 GitHub Streaks**
+<div style="background-color: #1E1E1E; padding: 10px; border-radius: 10px; box-shadow: 0 0 15px neon-green; max-width: 300px; margin: auto;">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zackweb-pro&theme=dark" alt="GitHub Streaks" style="width: 100%; height: auto;">
 </div>
 
-### **📈 Top Languages (Styled in Dark Mode)**
-<div style="background-color: #1E1E1E; padding: 10px; border-radius: 10px; box-shadow: 0 0 15px neon-green; max-width: 700px; margin: auto;">
+### **📈 Top Languages **
+<div style="background-color: #1E1E1E; padding: 10px; border-radius: 10px; box-shadow: 0 0 15px neon-green; max-width: 300px; margin: auto;">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=zackweb-pro&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages" style="width: 100%; height: auto;">
 </div>
 

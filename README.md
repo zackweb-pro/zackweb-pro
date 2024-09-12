@@ -42,7 +42,7 @@ Hi there! I'm **Zakaria OUMGHAR**, a passionate **software engineering student**
 ![Profile views](https://komarev.com/ghpvc/?username=zackweb-pro)
 
 ### **🌐 Social Media**
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat)](https://www.linkedin.com/in/zakaria-oumghar/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat)](https://www.linkedin.com/in/zakaria-oumghar-b30b9b1bb/)
 [![Twitter](https://img.shields.io/badge/Twitter-purple?logo=twitter&style=flat)](https://x.com/Zakaria34293210)
 [![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&style=flat)](https://github.com/zackweb-pro)
 [![Instagram](https://img.shields.io/badge/Instagram-white?logo=instagram&style=flat)](https://instagram.com/zoumghar)

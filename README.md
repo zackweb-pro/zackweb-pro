@@ -43,7 +43,7 @@ Hi there! I'm **Zakaria OUMGHAR**, a passionate **software engineering student**
   <img src="https://github-profile-trophy.vercel.app/?username=zackweb-pro&theme=dracula&margin-w=15&margin-h=15" alt="Trophies" style="width: 100%; height: auto;">
 </div>
 
-<div style="display: flex; justify-content: center: align-items: center; flex-direction: column; gap: 30px;">
+<div style="display: flex; justify-content: center; align-items: center; flex-direction: column; gap: 30px;">
 ### **📊 GitHub Stats **
 <div style="background-color: #1E1E1E; padding: 10px; border-radius: 10px; box-shadow: 0 0 15px neon-green; max-width: 300px; margin: auto;">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=zackweb-pro&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" style="width: 100%; height: auto;">

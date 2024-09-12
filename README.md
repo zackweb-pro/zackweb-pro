@@ -4,11 +4,9 @@
 
 
 
-<div align="center">
-  <h1 style="font-family: 'Courier New', Courier, monospace; font-size: 3rem; color: #00FF00;">
-    <span id="animated-title">Welcome to Zakaria OUMGHAR's Profile!</span>
-  </h1>
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=#20948B&size=25&center=true&vCenter=true&width=500&lines=Hello+there!+I'm+Zakaria+OUMGHAR;Software+Engineering+Student;Passionate+about+Web+Development" alt="Typing SVG">
+</p>
 
 
 

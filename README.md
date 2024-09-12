@@ -45,17 +45,17 @@ Hi there! I'm **Zakaria OUMGHAR**, a passionate **software engineering student**
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 30px;">
 ### **📊 GitHub Stats **
-<div style="background-color: #1E1E1E; padding: 10px; border-radius: 10px; box-shadow: 0 0 15px neon-green; max-width: 300px; margin: auto;">
+<div style="background-color: #1E1E1E; padding: 10px; border-radius: 10px; box-shadow: 0 0 15px neon-green; max-width: 300px; width: fit-content; margin: auto;">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=zackweb-pro&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" style="width: 100%; height: auto;">
 </div>
 
 ### **🔥 GitHub Streaks**
-<div style="background-color: #1E1E1E; padding: 10px; border-radius: 10px; box-shadow: 0 0 15px neon-green; max-width: 300px; margin: auto;">
+<div style="background-color: #1E1E1E; padding: 10px; border-radius: 10px; box-shadow: 0 0 15px neon-green; max-width: 300px; width: fit-content;  margin: auto;">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zackweb-pro&theme=dark" alt="GitHub Streaks" style="width: 100%; height: auto;">
 </div>
 
 ### **📈 Top Languages **
-<div style="background-color: #1E1E1E; padding: 10px; border-radius: 10px; box-shadow: 0 0 15px neon-green; max-width: 300px; margin: auto;">
+<div style="background-color: #1E1E1E; padding: 10px; border-radius: 10px; box-shadow: 0 0 15px neon-green; max-width: 300px; width: fit-content;  margin: auto;">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=zackweb-pro&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages" style="width: 100%; height: auto;">
 </div>
 </div>

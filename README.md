@@ -56,4 +56,5 @@ Hi there! I'm **Zakaria OUMGHAR**, a passionate **software engineering student**
 ---
 
 
-<img src="https://raw.githubusercontent.com/zackweb-pro/zackweb-pro/output/snake.svg" alt="Snake animation" />
+
+<img src="https://raw.githubusercontent.com/maurodesouza/zackweb-pro/output/snake.svg" alt="Snake animation" />

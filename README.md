@@ -39,6 +39,7 @@ Hi there! I'm **Zakaria OUMGHAR**, a passionate **software engineering student**
 ---
 
 <div align="center">
+
    <img width=400 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=zackweb-pro&count_private=true&theme=react&border_radius=10&height=150" height="150" alt="streak stats"/>
   <img src="https://github-readme-stats.vercel.app/api?username=zackweb-pro&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=false&card_width=400" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zackweb-pro&hide_title=false&layout=compact&card_width=400&langs_count=5&theme=react&hide_border=false" height="150" alt="languages graph"  />

@@ -39,6 +39,7 @@ Hi there! I'm **Zakaria OUMGHAR**, a passionate **software engineering student**
 ---
 
 <div align="center">
+   <img width=400 src="https://github-readme-streak-stats-zackweb-pro.vercel.app/?user=zackweb-pro&count_private=true&theme=react&border_radius=10&height=150" alt="streak stats"/>
   <img src="https://github-readme-stats.vercel.app/api?username=zackweb-pro&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&card_width=340" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zackweb-pro&hide_title=false&layout=compact&card_width=400&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
@@ -54,7 +55,11 @@ Hi there! I'm **Zakaria OUMGHAR**, a passionate **software engineering student**
 
 
 ---
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/zackweb-pro/zackweb-pro/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
 
-
-
-![snake gif](https://github.com/zackweb-pro/zackweb-pro/blob/output/github-contribution-grid-snake.gif)

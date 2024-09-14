@@ -52,3 +52,8 @@ Hi there! I'm **Zakaria OUMGHAR**, a passionate **software engineering student**
 [![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&style=flat)](https://github.com/zackweb-pro)
 [![Instagram](https://img.shields.io/badge/Instagram-white?logo=instagram&style=flat)](https://instagram.com/zoumghar)
 
+
+---
+
+
+<img src="https://raw.githubusercontent.com/zackweb-pro/zackweb-pro/output/snake.svg" alt="Snake animation" />

@@ -1,8 +1,7 @@
-<p align="center">
-![Logo](https://i.ibb.co/k8GTZ7N/Black-and-White-Simple-Typographic-Phantom-Halloween-Logo.png)
-</p>
 
-<p align="center">
+
+<p align="center">![Black and White Simple Typographic Phantom Halloween Logo](https://github.com/user-attachments/assets/63cfdc29-e2d8-4145-ac34-b1ebbd6d9ac3)
+
   <img src="https://readme-typing-svg.herokuapp.com?color=%2361DAFB&size=25&center=true&vCenter=true&width=500&lines=Hello+there!+I'm+Zakaria+OUMGHAR;Software+Engineering+Student;Passionate+about+Web+Development" alt="Typing SVG">
 </p>
 

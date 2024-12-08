@@ -1,7 +1,6 @@
 <p align="center">
-  <img align="center" width="200" src="https://github.com/user-attachments/assets/63cfdc29-e2d8-4145-ac34-b1ebbd6d9ac3" alt="Typing SVG">
+  <img class="rounded-circle" style="border: 2px solid white;" align="center" width="200" src="https://github.com/user-attachments/assets/35299503-c108-411c-ba5b-4df4ee3e258d" alt="Typing SVG" >
 </p>
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=%2361DAFB&size=25&center=true&vCenter=true&width=500&lines=Hello+there!+I'm+Zakaria+OUMGHAR;Software+Engineering+Student;Passionate+about+Web+Development" alt="Typing SVG">
 </p>

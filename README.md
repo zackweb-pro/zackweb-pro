@@ -8,7 +8,7 @@
 
 
 ## **🌟 About Me**
-Hi there! I am **Zakaria OUMGHAR**, a passionate **software engineering student** at **ENSIAS**, I do all full-stack web development related services. Let's build something awesome together!
+Hi there! I am **zakaria oumghar**, a passionate **software engineering student** at **ENSIAS**, I do all full-stack web development related services. Let's build something awesome together!
 
 ### **🔧 Programming Languages**
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?logo=javascript&style=flat)

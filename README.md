@@ -7,9 +7,9 @@
   <a href="https://github.com/zackweb-pro">
     <img src="https://github.com/user-attachments/assets/35299503-c108-411c-ba5b-4df4ee3e258d" alt="Zakaria OUMGHAR" width="180" height="180" style="border-radius: 50%; border: 4px solid #61DAFB; box-shadow: 0 0 20px rgba(97, 218, 251, 0.6); animation: pulse 2s infinite;">
   </a>
-
+<br/>
   <!-- Dynamic Typing Animation -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=61DAFB&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=120&lines=🚀+Software+Engineering+Student+%40+ENSIAS;💻+Full-Stack+Web+Developer;🌟+MERN+%26+Spring+Boot+Architect;🎯+Crafting+Digital+Experiences;☕+Fueled+by+Coffee+%26+Code" alt="Typing Animation"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=61DAFB&center=true&vCenter=true&multiline=false&repeat=true&width=800&height=120&lines=🚀+Software+Engineering+Student+%40+ENSIAS;💻+Full-Stack+Web+Developer;🌟+MERN+%26+Spring+Boot+Architect;🎯+Crafting+Digital+Experiences;☕+Fueled+by+Coffee+%26+Code" alt="Typing Animation"/>
 
   <!-- Enhanced Badges Section -->
   <br/>

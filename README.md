@@ -11,6 +11,17 @@
   <!-- Dynamic Typing Animation -->
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=61DAFB&center=true&vCenter=true&multiline=false&repeat=true&width=800&height=120&lines=🚀+Software+Engineering+Student+%40+ENSIAS;💻+Full-Stack+Web+Developer;🌟+MERN+%26+Spring+Boot+Architect;🎯+Crafting+Digital+Experiences;☕+Fueled+by+Coffee+%26+Code" alt="Typing Animation"/>
 
+
+---
+
+## 💡 Daily Dev Quote
+
+<div align="center">
+  
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote"/>
+  
+</div>
+
   <!-- Enhanced Badges Section -->
   <br/>
   <img src="https://komarev.com/ghpvc/?username=zackweb-pro&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
@@ -199,15 +210,7 @@ const zakaria: Developer = {
 
 </div>
 
----
 
-## 💡 Daily Dev Quote
-
-<div align="center">
-  
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote"/>
-  
-</div>
 
 
 

@@ -162,25 +162,9 @@ const zakaria: Developer = {
   <br />
   
   <!-- Detailed Stats -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zackweb-pro&theme=radical"/>
 
 </div>
 
----
-
-## 🏆 Achievements & Highlights
-
-<div align="center">
-
-| 🎯 **Metric** | 📊 **Value** | 🚀 **Achievement** |
-|:-------------:|:------------:|:------------------:|
-| **Years Coding** | 4+ | 🔥 Consistent Growth |
-| **Languages And Frameworks Mastered** | 8+ | 💻 Polyglot Developer |
-| **Projects Completed** | 20+ | 🎨 Problem Solver |
-
-</div>
-
----
 
 ## 🌐 Let's Connect & Collaborate
 
@@ -223,9 +207,5 @@ const zakaria: Developer = {
   <!-- Footer Wave -->
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling"/>
   
-  ### 💫 *"Turning coffee into code, one commit at a time"*
-  
-  
-  <img src="https://komarev.com/ghpvc/?username=zackweb-pro&style=flat-square&color=blue" alt="Profile Views"/>
   
 </div>

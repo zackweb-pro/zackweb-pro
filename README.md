@@ -182,7 +182,7 @@ const zakaria: Developer = {
   <a href="https://www.hackerrank.com/zakariaoumghar1" target="_blank">
     <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white&labelColor=2EC866"/>
   </a>
-  <a href="https://zackweb-pro.github.io/zakaria-oumghar/" target="_blank">
+  <a href="https://zakaria-oumghar.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=FF5722"/>
   </a>
 

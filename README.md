@@ -170,7 +170,7 @@ const zakaria: Developer = {
 
 <div align="center">
   
-  <a href="https://linkedin.com/in/zakaria-oumghar-b30b9b1bb" target="_blank">
+  <a href="https://linkedin.com/in/zakaria-oumghar-gl" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5"/>
   </a>
   <a href="mailto:zakariaoumghar1@gmail.com" target="_blank">

@@ -1,211 +1,224 @@
 <div align="center">
-  
-  <!-- Animated Header with Gradient Background -->
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Zakaria%20OUMGHAR&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
-  
-  <!-- Professional Profile Image with Animation -->
-  <a href="https://github.com/zackweb-pro">
-    <img src="https://github.com/user-attachments/assets/35299503-c108-411c-ba5b-4df4ee3e258d" alt="Zakaria OUMGHAR" width="180" height="180" style="border-radius: 50%; border: 4px solid #61DAFB; box-shadow: 0 0 20px rgba(97, 218, 251, 0.6); animation: pulse 2s infinite;">
-  </a>
-<br/>
-  <!-- Dynamic Typing Animation -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=61DAFB&center=true&vCenter=true&multiline=false&repeat=true&width=800&height=120&lines=🚀+Software+Engineering+Student+%40+ENSIAS;💻+Full-Stack+Web+Developer;🌟+MERN+%26+Spring+Boot+Architect;🎯+Crafting+Digital+Experiences;☕+Fueled+by+Coffee+%26+Code" alt="Typing Animation"/>
 
+<!-- Elegant Header with Gradient Line -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
+  <img width="100%" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
+</picture>
 
----
+<br/><br/>
 
-## 💡 Daily Dev Quote
----
-<div align="center">
-  
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote"/>
-  
-</div>
+<!-- Profile Section with Glow Effect -->
+<a href="https://github.com/zackweb-pro">
+  <img src="https://github.com/user-attachments/assets/35299503-c108-411c-ba5b-4df4ee3e258d" alt="Zakaria OUMGHAR" width="200" height="200" style="border-radius: 50%; border: 5px solid #CC5D34; box-shadow: 0 0 30px rgba(204, 93, 52, 0.6), 0 0 60px rgba(204, 93, 52, 0.3); margin: 20px;">
+</a>
 
---- 
+<h1>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&pause=1000&color=CC5D34&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Zakaria+OUMGHAR;Software+Engineer+%40+ENSIAS;Full-Stack+Developer;Spring+Boot+%26+MERN+Architect" alt="Typing SVG" />
+</h1>
 
-  <!-- Enhanced Badges Section -->
-  <br/>
-  <img src="https://komarev.com/ghpvc/?username=zackweb-pro&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
-  <img src="https://img.shields.io/github/followers/zackweb-pro?label=Followers&style=for-the-badge&color=blue&labelColor=black"/>
-  <img src="https://img.shields.io/github/stars/zackweb-pro?label=Total%20Stars&style=for-the-badge&color=yellow&labelColor=black"/>
-  
-  <!-- Trophy Section with Better Spacing -->
-  <br/><br/>
-  <img src="https://github-profile-trophy.vercel.app/?username=zackweb-pro&theme=radical&no-frame=true&column=4&margin-w=15&margin-h=15&no-bg=false" alt="GitHub Trophies"/>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=zackweb-pro&label=Profile%20Views&color=CC5D34&style=flat-square" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/zackweb-pro?label=Followers&style=flat-square&color=CC5D34&labelColor=2D261E"/>
+  <img src="https://img.shields.io/github/stars/zackweb-pro?label=Stars&style=flat-square&color=BF9000&labelColor=2D261E"/>
+</p>
+
+<!-- Decorative Line -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 </div>
 
----
-
-## 🎯 About Me
+## 🚀 About Me
 
 ```typescript
-const zakaria: Developer = {
+const zakaria = {
   name: "Zakaria OUMGHAR",
-  location: "Berrechid, Morocco 🇲🇦",
+  location: "Morocco 🇲🇦",
   education: "Software Engineering @ ENSIAS",
-  currentFocus: ["Spring Boot", "Next.js", "TypeScript", "System Design", "Devops"],
-  passions: ["Full-Stack Development", "Problem Solving", "Open Source"],
-  philosophy: "Code with purpose, build with passion, debug with patience ☕",
+  role: "Full-Stack Developer",
   
-  workingOn: {
-    🔥: "Advanced MERN Stack Applications",
-    🚀: "Spring Boot Microservices",
-    📱: "Responsive Web Solutions",
-    🎨: "UI/UX Optimization"
-  }
+  expertise: {
+    frontend: ["React.js", "Next.js", "TypeScript", "Tailwind CSS", "Framer Motion"],
+    backend: ["Spring Boot", "Node.js", "Express.js", "Microservices"],
+    databases: ["PostgreSQL", "MongoDB", "MySQL", "Oracle DB"],
+    devops: ["Docker", "Git", "CI/CD", "Oracle Cloud", "Bash"],
+    design: ["Figma", "Adobe XD", "UI/UX", "Responsive Design"]
+  },
+  
+  currentlyWorking: [
+    "🔥 Building microservices with Spring Boot & Spring Cloud",
+    "💻 Crafting modern web apps with React & TypeScript",
+    "☁️ Deploying containerized applications",
+    "🎨 Designing pixel-perfect interfaces"
+  ],
+  
+  philosophy: "Code is poetry, architecture is art ☕✨"
 };
 ```
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🚀 Current Journey
-
-<table>
-<tr>
-<td width="50%">
-
-### 🎓 Academic Excellence
-- 🏫 **ENSIAS** - École Nationale Supérieure d'Informatique
-- 🎯 Specializing in **Software Engineering**
-- 🏆 Passionate about **Ui/Ux, Modern Development Practices, Ai, Devops...**
-
-### 🔥 What I'm Building
-- 🌐 **Full-Stack Web Applications**
-- 🔧 **RESTful API Services**
-- 📱 **Responsive User Interfaces**
-- ☁️ **Ai Models**
-
-</td>
-<td width="50%">
-
-### 🎯 2025 Goals
-- [ ] Learn **Spring Boot Microservices**
-- [ ] Contribute to **Open Source Projects**
-- [ ] Build **Production-Ready Applications**
-- [ ] Learn **DevOps & Cloud Technologies**
-
-### 💡 Fun Facts
-- ☕ **Coffee Enthusiast** - Best debugging happens at 2 AM
-- 🎮 **Problem Solver** - Love algorithmic challenges
-- 🌟 **Team Player** - Believe in collaborative coding
-- 📖 **Continuous Learner** - Always exploring new tech
-
-</td>
-</tr>
-</table>
-
----
-
-## 🛠️ Tech Arsenal
+## 🛠️ Technology Arsenal
 
 <div align="center">
 
-### 🎨 Frontend Mastery
+### 🎨 Frontend Development
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,js,ts,html,css,tailwind,sass" alt="Frontend Skills"/>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,js,ts,html,css,tailwind,sass,bootstrap" alt="Frontend"/>
   <br/>
+  <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white"/>
   <img src="https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white"/>
 </p>
 
-### ⚙️ Backend Powerhouse
+### ⚙️ Backend Development
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,spring,java,python,flask,php" alt="Backend Skills"/>
+  <img src="https://skillicons.dev/icons?i=spring,java,nodejs,express,python,flask,php" alt="Backend"/>
   <br/>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring_Cloud-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Microservices-FF6B6B?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white"/>
+  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white"/>
 </p>
 
-### 💾 Database Expertise
+### 💾 Databases & ORMs
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,sqlite,firebase" alt="Database Skills"/>
+  <img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,sqlite,firebase" alt="Databases"/>
   <br/>
   <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
   <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
 </p>
 
-### 🚀 DevOps & Tools
+### 🚀 DevOps & Cloud
 <p>
-  <img src="https://skillicons.dev/icons?i=git,docker,linux,bash,postman,heroku,figma,ai" alt="DevOps Skills"/>
+  <img src="https://skillicons.dev/icons?i=docker,git,github,gitlab,linux,bash,postman" alt="DevOps"/>
   <br/>
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-  <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CI/CD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"/>
 </p>
 
-### 🔧 Additional Skills
+### 🎨 Design & Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,arduino" alt="Additional Skills"/>
+  <img src="https://skillicons.dev/icons?i=figma,ai,xd,vscode,idea,arduino" alt="Tools"/>
   <br/>
-  <img src="https://img.shields.io/badge/Data%20Structures-4CAF50?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Algorithms-FF9800?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/System%20Design-9C27B0?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Adobe_XD-FF61F6?style=for-the-badge&logo=adobexd&logoColor=white"/>
+  <img src="https://img.shields.io/badge/UML-0081CB?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Agile-00A9E0?style=for-the-badge"/>
+</p>
+
+### 💡 Programming Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,java,python,cpp,c,php" alt="Languages"/>
+  <br/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PL/SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
 </p>
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 📊 GitHub Analytics
 
 <div align="center">
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zackweb-pro&layout=compact&theme=radical&hide_border=true&langs_count=8&card_width=420" alt="Top Languages" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=zackweb-pro&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="zackweb-pro GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zackweb-pro&theme=radical&hide_border=true" alt="GitHub Streak" />
-  <br/><br/> <!-- Added extra break for spacing -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zackweb-pro&theme=radical&hide_border=true&area=true" alt="GitHub Contributions Graph" />
-  <br />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=zackweb-pro&show_icons=true&theme=transparent&hide_border=true&title_color=CC5D34&icon_color=CC5D34&text_color=5F4B37&bg_color=00000000" alt="GitHub Stats"/>
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=zackweb-pro&theme=transparent&hide_border=true&ring=CC5D34&fire=CC5D34&currStreakLabel=CC5D34&sideLabels=5F4B37&dates=5F4B37" alt="GitHub Streak"/>
   
-  <!-- Detailed Stats -->
-
-</div>
-
-
-## 🌐 Let's Connect & Collaborate
-
-<div align="center">
-  
-  <a href="https://linkedin.com/in/zakaria-oumghar-gl" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5"/>
-  </a>
-  <a href="mailto:zakariaoumghar1@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836"/>
-  </a>
-  <a href="https://instagram.com/zakaria.oumghar" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F"/>
-  </a>
-  <a href="https://www.hackerrank.com/zakariaoumghar1" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white&labelColor=2EC866"/>
-  </a>
-  <a href="https://zakaria-oumghar.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=FF5722"/>
-  </a>
-
   <br/><br/>
   
-  ### 💬 Open to Opportunities
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zackweb-pro&layout=compact&theme=transparent&hide_border=true&title_color=CC5D34&text_color=5F4B37&langs_count=10" alt="Top Languages"/>
   
-  **🤝 Collaboration** • **💼 Internships** • **🚀 Open Source** • **📚 Knowledge Sharing**
+  <br/><br/>
   
-  *"Great things happen when passionate developers come together!"*
+  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=zackweb-pro&custom_title=Contribution%20Timeline&bg_color=00000000&color=5F4B37&line=CC5D34&point=BF9000&area=true&hide_border=true&area_color=CC5D34" alt="Contribution Graph"/>
+  
+  <br/><br/>
+  
+  <!-- Trophy Display -->
+  <img src="https://github-profile-trophy.vercel.app/?username=zackweb-pro&theme=flat&no-frame=true&column=7&margin-w=10&margin-h=10&title=Stars,Commits,Repositories,PullRequest,Issues,Followers,MultiLanguage" alt="Trophies"/>
 
 </div>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-
-
-
----
+## 🎯 Featured Work
 
 <div align="center">
-  
-  <!-- Footer Wave -->
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling"/>
-  
-  
+
+<table>
+<tr>
+<td width="50%">
+
+### 🚌 OurBusWay
+**Urban Transport Platform**
+
+Complete transport management with:
+- 🎫 Ticket & subscription system
+- 💳 Stripe payment integration  
+- 📊 Real-time bus tracking
+- 🏗️ 8 microservices architecture
+
+**Stack:** Spring Boot • React • PostgreSQL • RabbitMQ • Docker
+
+</td>
+<td width="50%">
+
+### 🏭 UGP Platform
+**Industrial Services Management**
+
+Multi-role web platform featuring:
+- 🔐 Secure authentication
+- 📦 Real-time order tracking
+- 📈 Analytics dashboards
+- ☁️ Oracle Cloud deployment
+
+**Stack:** Spring Boot • React • TypeScript • PostgreSQL
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 🤝 Let's Connect & Build Together
+
+<div align="center">
+
+<a href="https://linkedin.com/in/zakaria-oumghar-b30b9b1bb" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="mailto:zakaria.oumghar.gl@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+<a href="https://zakaria-oumghar.vercel.app" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-CC5D34?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+</a>
+<a href="https://github.com/zackweb-pro" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+<a href="https://www.hackerrank.com/zakariaoumghar1" target="_blank">
+  <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/>
+</a>
+
+<br/><br/>
+
+### 💼 Open For
+**🤝 Collaboration** • **💻 Internships** • **🚀 Freelance** • **📚 Open Source**
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,14,16&height=2"/>
+
+*"Building the future, one commit at a time"* ✨
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg">
+
 </div>
